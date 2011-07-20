@@ -3,7 +3,7 @@ $:.push File.expand_path("../lib", __FILE__)
 require "formtastic/version"
 
 Gem::Specification.new do |s|
-  s.name        = %q{formtastic}
+  s.name        = %q{dps_formtastic}
   s.version     = Formtastic::VERSION
   s.platform    = Gem::Platform::RUBY
   s.authors     = [%q{Justin French}]
